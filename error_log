@@ -1,0 +1,310 @@
+[05-Sep-2017 03:12:25 UTC] PHP Parse error:  syntax error, unexpected 'name' (T_STRING) in /home/developmentuph/public_html/bt1/wp-content/themes/illdy/footer.php on line 75
+[05-Sep-2017 03:13:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/developmentuph/public_html/bt1/wp-content/themes/illdy/footer.php on line 76
+[05-Sep-2017 03:13:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/developmentuph/public_html/bt1/wp-content/themes/illdy/footer.php on line 76
+[05-Sep-2017 06:47:03 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:47:08 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:47:57 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:48:36 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:49:09 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:49:34 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:49:58 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:50:03 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:50:44 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:50:47 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:50:48 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:52:00 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:52:30 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:52:59 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:53:11 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:53:52 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:54:26 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:55:26 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:55:30 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:55:35 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:55:54 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:56:29 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:56:34 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:56:51 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:57:30 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:58:46 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 06:58:47 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 07:00:19 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 07:01:36 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 07:01:39 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 07:02:01 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 07:02:42 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[05-Sep-2017 07:05:10 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/developmentuph/public_html/bt1/wp-content/plugins/illdy-companion/widgets/class-widget-project.php on line 38
+[15-Nov-2017 10:50:53 Asia/Jakarta] PHP Warning:  require(/home/itduph/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/itduph/public_html/index.php on line 17
+[15-Nov-2017 10:50:53 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/itduph/public_html/wp-blog-header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itduph/public_html/index.php on line 17
+[15-Nov-2017 10:50:53 Asia/Jakarta] PHP Warning:  require(/home/itduph/public_html/wp-blog-header.php): failed to open stream: No such file or directory in /home/itduph/public_html/index.php on line 17
+[15-Nov-2017 10:50:53 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/itduph/public_html/wp-blog-header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itduph/public_html/index.php on line 17
+[15-Nov-2017 10:50:53 Asia/Jakarta] PHP Warning:  require_once(/home/itduph/public_html/wp-load.php): failed to open stream: No such file or directory in /home/itduph/public_html/wp-blog-header.php on line 13
+[15-Nov-2017 10:50:53 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/home/itduph/public_html/wp-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/itduph/public_html/wp-blog-header.php on line 13
+[15-Nov-2017 03:51:29 UTC] WordPress database error Table 'itduph_bt1.wp_posts' doesn't exist for query SELECT   wp_posts.* FROM wp_posts  WHERE 1=1  AND ( 
+  ( YEAR( wp_posts.post_date ) = 2017 AND MONTH( wp_posts.post_date ) = 8 AND DAYOFMONTH( wp_posts.post_date ) = 30 )
+) AND wp_posts.post_name = 'hello-world' AND wp_posts.post_type = 'post'  ORDER BY wp_posts.post_date DESC  made by wp_xmlrpc_server->serve_request, IXR_Server->IXR_Server, IXR_Server->__construct, IXR_Server->serve, IXR_Server->call, wp_xmlrpc_server->pingback_ping, url_to_postid, WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[15-Nov-2017 03:51:50 UTC] WordPress database error Table 'itduph_bt1.wp_posts' doesn't exist for query SELECT * FROM wp_posts WHERE ID = 699 LIMIT 1 made by include('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('after_setup_theme'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, illdy_setup, require('/themes/illdy/inc/back-compatible.php'), get_custom_logo, wp_get_attachment_image, wp_get_attachment_image_src, image_downsize, wp_attachment_is_image, wp_attachment_is, get_post, WP_Post::get_instance
+[15-Nov-2017 03:51:51 UTC] WordPress database error Table 'itduph_bt1.wp_users' doesn't exist for query SELECT wp_users.* FROM wp_users INNER JOIN wp_usermeta ON ( wp_users.ID = wp_usermeta.user_id ) WHERE 1=1 AND ( 
+  wp_usermeta.meta_key = 'wplc_ma_agent'
+) ORDER BY user_login ASC  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_header, locate_template, load_template, require_once('/themes/illdy/header.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wplc_load_user_js, wplc_push_js_to_front_basic, get_users, WP_User_Query->__construct, WP_User_Query->query
+[15-Nov-2017 03:51:51 UTC] WordPress database error Table 'itduph_bt1.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE t.term_id = 2 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_header, locate_template, load_template, require_once('/themes/illdy/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term, WP_Term::get_instance
+[15-Nov-2017 03:51:51 UTC] WordPress database error Table 'itduph_bt1.wp_terms' doesn't exist for query SELECT  t.*, tt.* FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('nav_menu') AND t.slug = '2'  LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_header, locate_template, load_template, require_once('/themes/illdy/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term_by, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[15-Nov-2017 03:51:51 UTC] WordPress database error Table 'itduph_bt1.wp_terms' doesn't exist for query SELECT  t.*, tt.* FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('nav_menu') AND t.name IN ('2')  LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_header, locate_template, load_template, require_once('/themes/illdy/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term_by, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[15-Nov-2017 03:51:51 UTC] WordPress database error Table 'itduph_bt1.wp_terms' doesn't exist for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE t.term_id = 2 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_header, locate_template, load_template, require_once('/themes/illdy/header.php'), wp_nav_menu, wp_get_nav_menu_object, get_term, WP_Term::get_instance
+[15-Nov-2017 03:51:51 UTC] WordPress database error Table 'itduph_bt1.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE ID = '1' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), the_post, WP_Query->the_post, WP_Query->setup_postdata, get_userdata, get_user_by, WP_User::get_data_by
+[15-Nov-2017 03:51:51 UTC] WordPress database error Table 'itduph_bt1.wp_users' doesn't exist for query SELECT * FROM wp_users WHERE ID = '1' made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_footer, locate_template, load_template, require_once('/themes/illdy/footer.php'), wp_footer, do_action('wp_footer'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, psfd_footer, wp_reset_query, wp_reset_postdata, WP_Query->reset_postdata, WP_Query->setup_postdata, get_userdata, get_user_by, WP_User::get_data_by
+[15-Nov-2017 03:51:52 UTC] WordPress database error Table 'itduph_bt1.wp_usermeta' doesn't exist for query 
+			SELECT COUNT(NULLIF(`meta_value` LIKE '%\"administrator\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"editor\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"author\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"contributor\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"subscriber\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"customer\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"shop\\_manager\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"aol\\_manager\"%', false)), COUNT(NULLIF(`meta_value` LIKE '%\"catalog\\_manager\"%', false)), COUNT(NULLIF(`meta_value` = 'a:0:{}', false)), COUNT(*)
+			FROM wp_usermeta
+			INNER JOIN wp_users ON user_id = ID
+			WHERE meta_key = 'wp_capabilities'
+		 made by do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, wp_version_check, count_users
+[27-Jan-2018 16:53:11 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 16:53:11 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 16:53:12 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 16:53:12 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 16:54:02 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 16:54:02 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:28:57 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:28:57 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:29:02 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:29:02 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:41:05 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:41:05 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:44:34 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:44:34 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:44:35 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:44:35 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:50:29 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:50:29 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:50:30 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:50:30 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:56:25 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:56:25 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 17:56:25 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 17:56:25 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:02:20 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:02:20 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:02:21 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:02:21 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:21:12 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:21:12 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:21:14 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:21:14 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:27:07 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:27:07 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:27:08 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:27:08 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:33:03 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:33:03 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:33:04 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:33:04 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:33:35 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:33:35 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:38:58 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:38:58 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:38:59 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:38:59 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:44:37 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:44:37 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:44:54 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:44:54 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 18:44:54 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 18:44:54 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 19:05:06 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 19:05:06 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 19:05:07 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 19:05:07 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 19:18:03 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 19:18:03 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 19:54:48 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 19:54:48 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 23:30:21 UTC] WordPress database error Server shutdown in progress for query SELECT * FROM wp_formmaker_display_options as display INNER JOIN wp_formmaker as forms ON display.form_id = forms.id WHERE display.type != "embedded" and forms.published=1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_footer, locate_template, load_template, require_once('/themes/illdy/footer.php'), wp_footer, do_action('wp_footer'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WDFM->FM_front_end_main, wd_form_maker, FMControllerForm_maker->execute, FMControllerForm_maker->display, FMModelForm_maker->all_forms
+[27-Jan-2018 23:30:22 UTC] WordPress database error Server shutdown in progress for query SELECT * FROM wp_formmaker_display_options as display INNER JOIN wp_formmaker as forms ON display.form_id = forms.id WHERE display.type != "embedded" and forms.published=1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/404.php'), get_footer, locate_template, load_template, require_once('/themes/illdy/footer.php'), wp_footer, do_action('wp_footer'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WDFM->FM_front_end_main, wd_form_maker, FMControllerForm_maker->execute, FMControllerForm_maker->display, FMModelForm_maker->all_forms
+[27-Jan-2018 23:30:22 UTC] WordPress database error Server shutdown in progress for query SELECT * FROM wp_formmaker_display_options as display INNER JOIN wp_formmaker as forms ON display.form_id = forms.id WHERE display.type != "embedded" and forms.published=1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/404.php'), get_footer, locate_template, load_template, require_once('/themes/illdy/footer.php'), wp_footer, do_action('wp_footer'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WDFM->FM_front_end_main, wd_form_maker, FMControllerForm_maker->execute, FMControllerForm_maker->display, FMModelForm_maker->all_forms
+[27-Jan-2018 23:30:22 UTC] WordPress database error Server shutdown in progress for query SELECT * FROM wp_formmaker_display_options as display INNER JOIN wp_formmaker as forms ON display.form_id = forms.id WHERE display.type != "embedded" and forms.published=1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/illdy/front-page.php'), get_footer, locate_template, load_template, require_once('/themes/illdy/footer.php'), wp_footer, do_action('wp_footer'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WDFM->FM_front_end_main, wd_form_maker, FMControllerForm_maker->execute, FMControllerForm_maker->display, FMModelForm_maker->all_forms
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[27-Jan-2018 23:30:22 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[23-Mar-2018 03:09:13 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/wisudauph/public_html/wp-includes/script-loader.php on line 992
+[23-Mar-2018 03:09:13 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/wisudauph/public_html/wp-includes/script-loader.php on line 993
+[23-Mar-2018 03:09:13 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/wisudauph/public_html/wp-includes/script-loader.php on line 996
+[23-Mar-2018 03:09:13 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/wisudauph/public_html/wp-includes/script-loader.php on line 997
+[23-Mar-2018 03:09:13 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/wisudauph/public_html/wp-includes/script-loader.php on line 998
+[23-Mar-2018 03:09:13 UTC] PHP Fatal error:  Call to a member function is_rtl() on a non-object in /home/wisudauph/public_html/wp-includes/script-loader.php on line 1001
+[03-Apr-2018 17:31:32 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 17:31:32 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 18:13:11 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 18:13:11 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 18:13:21 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 18:13:21 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 20:34:36 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 20:34:36 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 20:34:43 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 20:34:43 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 20:34:45 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 20:34:45 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 20:34:46 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 20:34:46 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 20:34:47 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 20:34:47 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 20:34:49 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 20:34:49 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 20:34:50 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 20:34:50 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 21:08:56 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 21:08:56 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[03-Apr-2018 22:14:12 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[03-Apr-2018 22:14:12 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:21:17 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:21:17 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:25:05 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:25:05 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:29:34 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:29:34 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:29:35 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:29:35 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:29:36 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:29:36 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:29:40 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:29:40 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:29:41 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:29:41 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:29:42 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:29:42 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:58:47 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:58:47 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:58:47 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:58:47 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:58:48 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:58:48 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:58:48 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:58:48 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[04-Apr-2018 00:58:49 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[04-Apr-2018 00:58:49 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[10-Jul-2018 03:18:08 UTC] PHP Fatal error:  Call to undefined function illdy_get_image_id_from_image_url() in /home/wisudauph/public_html/wp-content/plugins/illdy-companion/widgets/class-illdy-widget-project.php on line 50
+[24-Jul-2018 05:10:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/wisudauph/public_html/wp-includes/class-wp-image-editor-gd.php on line 183
+[02-Aug-2019 10:39:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:39:50 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:39:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:39:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 423
+[02-Aug-2019 10:39:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 436
+[02-Aug-2019 10:39:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:39:51 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:39:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:39:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 423
+[02-Aug-2019 10:39:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 436
+[02-Aug-2019 10:40:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:40:29 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:40:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:40:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:40:43 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:40:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:10 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:11 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:11 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 423
+[02-Aug-2019 10:42:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 436
+[02-Aug-2019 10:42:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:12 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 423
+[02-Aug-2019 10:42:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/it-login.php on line 436
+[02-Aug-2019 10:42:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:40 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:46 UTC] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:50548 Library:100038 in /home/wisudauph/public_html/wp-includes/wp-db.php on line 1562
+[02-Aug-2019 10:42:46 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wisudauph/public_html/wp-includes/wp-db.php:1562) in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 461
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 462
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 462
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 463
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 465
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: scheme in /home/wisudauph/public_html/wp-includes/canonical.php on line 482
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 461
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 462
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 462
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 463
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: host in /home/wisudauph/public_html/wp-includes/canonical.php on line 465
+[02-Aug-2019 10:42:47 UTC] PHP Notice:  Undefined index: scheme in /home/wisudauph/public_html/wp-includes/canonical.php on line 482
+[07-Aug-2019 15:03:48 UTC] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/wisudauph/public_html/wp-content/plugins/wp-file-upload/wordpress_file_upload.php on line 2
+[07-Aug-2019 15:03:49 UTC] PHP Warning:  Unknown: The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in Unknown on line 0
+[07-Aug-2019 15:03:49 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea3) in Unknown on line 0
+[06-Sep-2019 23:20:56 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[06-Sep-2019 23:23:06 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/Cache_Base.php on line 150
+[06-Sep-2019 23:23:54 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[06-Sep-2019 23:25:16 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[06-Sep-2019 23:35:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[06-Sep-2019 23:45:27 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[06-Sep-2019 23:55:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:05:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:14:59 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:15:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:20:28 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:21:12 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:21:29 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:22:00 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:22:19 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:25:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:35:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:39:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:39:27 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/option.php on line 2149
+[07-Sep-2019 00:39:31 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:40:47 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:40:48 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:40:52 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:41:30 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:42:12 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/option.php on line 2149
+[07-Sep-2019 00:42:45 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/option.php on line 2149
+[07-Sep-2019 00:45:29 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:52:42 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:52:56 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:53:35 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:53:59 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:54:40 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/ObjectCache_WpObjectCache_Regular.php on line 36
+[07-Sep-2019 00:55:14 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:55:26 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:55:58 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:56:09 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/class-wp-hook.php on line 138
+[07-Sep-2019 00:56:33 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-content/plugins/w3-total-cache/Cache_Base.php on line 150
+[07-Sep-2019 01:00:37 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/cache.php on line 530
+[07-Sep-2019 01:00:57 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/plugin.php on line 202
+[07-Sep-2019 01:02:24 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/cache.php on line 530
+[07-Sep-2019 01:02:43 UTC] PHP Fatal error:  Allowed memory size of 1073741824 bytes exhausted (tried to allocate 130968 bytes) in /home/wisudauph/public_html/wp-includes/plugin.php on line 202
+[15-Sep-2019 04:23:29 Asia/Jakarta] Unable to verify temporary file contents for atomic writing.
+[15-Sep-2019 04:33:29 Asia/Jakarta] Unable to verify temporary file contents for atomic writing.
+[15-Sep-2019 04:43:29 Asia/Jakarta] Unable to verify temporary file contents for atomic writing.
+[15-Sep-2019 04:43:33 Asia/Jakarta] Unable to verify temporary file contents for atomic writing.
+[14-Sep-2019 21:43:34 UTC] PHP Fatal error:  Uncaught exception 'wfWAFStorageFileException' with message 'Unable to verify temporary file contents for atomic writing.' in /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:47
+Stack trace:
+#0 /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(651): wfWAFStorageFile::atomicFilePutContents('/home/wisudauph...', '<?php exit('Acc...')
+#1 [internal function]: wfWAFStorageFile->saveConfig('livewaf')
+#2 {main}
+  thrown in /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php on line 47
+[14-Sep-2019 21:43:34 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/wisudauph/public_html/wp-includes/cache.php on line 123
+[14-Sep-2019 21:43:37 UTC] PHP Fatal error:  Uncaught exception 'wfWAFStorageFileException' with message 'Unable to verify temporary file contents for atomic writing.' in /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:47
+Stack trace:
+#0 /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(651): wfWAFStorageFile::atomicFilePutContents('/home/wisudauph...', '<?php exit('Acc...')
+#1 [internal function]: wfWAFStorageFile->saveConfig('livewaf')
+#2 {main}
+  thrown in /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php on line 47
+[15-Sep-2019 04:43:47 Asia/Jakarta] Unable to verify temporary file contents for atomic writing.
+[14-Sep-2019 21:43:48 UTC] PHP Fatal error:  Uncaught exception 'wfWAFStorageFileException' with message 'Unable to verify temporary file contents for atomic writing.' in /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php:47
+Stack trace:
+#0 /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php(651): wfWAFStorageFile::atomicFilePutContents('/home/wisudauph...', '<?php exit('Acc...')
+#1 [internal function]: wfWAFStorageFile->saveConfig('livewaf')
+#2 {main}
+  thrown in /home/wisudauph/public_html/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/storage/file.php on line 47
+[15-Sep-2019 04:44:28 Asia/Jakarta] Unable to verify temporary file contents for atomic writing.
+[14-Sep-2019 21:44:29 UTC] PHP Fatal 

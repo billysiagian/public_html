@@ -1,0 +1,25 @@
+<Files ~ "\.inc$">
+   Order allow,deny
+   Deny from all
+</Files>
+
+#Deny from all
+#Deny from 122.200.1.2
+#Allow from 122.200 192.168
+#Satisfy All
+
+#<If "%{HTTP_USER_AGENT} !=~ 'Android'">
+AuthName "RESTRICTED AREA"
+Require user itd.uph
+#</If>
+
+BrowserMatch ^$ noauth=1
+#SetEnvIf Request_Method POST poauth=1
+#SetEnvIf Request_URI ^/admin\.php noauth=1
+#SetEnvIf User-Agent ^$ noauth=1
+Order allow,deny
+Allow from env=noauth
+Satisfy any
+AuthUserFile "/home/itduph/.htpasswds/public_html/mrbs/passwd"
+AuthType Basic
+require valid-user

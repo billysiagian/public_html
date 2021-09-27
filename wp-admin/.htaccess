@@ -1,0 +1,26 @@
+#AuthName "RESTRICTED AREA"
+#AuthUserFile "/home/itduph/.htpasswds/public_html/wp-admin/passwd"
+
+
+#AuthUserFile /home/uphedu/.htpasswds/.htpasswd
+#AuthName "RESTRICTED AREA"
+#AuthType Basic
+#Require user unit.uph pr.magang 
+#Require valid-user
+
+
+<Files admin-ajax.php>
+  Order allow,deny
+  Allow from all
+  Satisfy any
+</Files>
+<Files admin-post.php>
+  Order allow,deny
+  Allow from all
+  Satisfy any
+</Files>
+<Files "\.(css|gif|png|js)$">
+  Order allow,deny
+  Allow from all
+  Satisfy any
+</Files>

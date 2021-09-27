@@ -1,0 +1,8 @@
+.span-3 {text-align:left;}
+.event-middle {display:block;}
+.new-middle {display:block;}
+ul.dropdown ul {margin-top:0px;}
+ul.dropdown ul li a {width:100%;display:inline-block;}
+ul.dropdown li:hover ul,ul.dropdown li:focus ul {z-index:100;}
+* html ul.dropdown li.hover ul {display:block;}
+ul.dropdown ul a:hover,ul.dropdown ul a:focus {width:201px;}

@@ -1,0 +1,1357 @@
+[12-Jan-2015 08:23:07 Asia/Jakarta] MRBS: Invalid entry id.
+[12-Jan-2015 08:23:07 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 35
+    [area] => 3
+    [day] => 12
+    [month] => 1
+    [year] => 2015
+)
+
+[12-Jan-2015 08:23:07 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140103
+)
+
+[02-Mar-2015 11:49:27 Asia/Jakarta] MRBS: Invalid entry id.
+[02-Mar-2015 11:49:27 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 243
+    [area] => 3
+    [day] => 2
+    [month] => 3
+    [year] => 2015
+)
+
+[06-Apr-2015 09:37:27 Asia/Jakarta] MRBS: Entry ID 410 not found
+[06-Apr-2015 09:37:27 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 410
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=410&area=3&day=1&month=4&year=2015
+)
+
+[06-Apr-2015 09:37:27 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20110173
+)
+
+[18-May-2015 09:48:23 Asia/Jakarta] MRBS: Invalid entry id.
+[18-May-2015 09:48:23 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2015
+    [month] => 5
+    [day] => 18
+    [area] => 3
+    [room] => 5
+)
+
+[18-May-2015 09:48:23 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140108
+)
+
+[08-Jun-2015 17:11:04 Asia/Jakarta] MRBS: Invalid entry id.
+[08-Jun-2015 17:11:04 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 548
+    [area] => 3
+    [day] => 3
+    [month] => 6
+    [year] => 2015
+)
+
+[08-Jun-2015 17:11:12 Asia/Jakarta] MRBS: Invalid entry id.
+[08-Jun-2015 17:11:12 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 548
+    [area] => 3
+    [day] => 3
+    [month] => 6
+    [year] => 2015
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=548&area=3&day=3&month=6&year=2015
+)
+
+[08-Jun-2015 17:11:12 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20110173
+)
+
+[11-Jun-2015 09:00:09 Asia/Jakarta] MRBS: Invalid entry id.
+[11-Jun-2015 09:00:09 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 593
+    [area] => 3
+    [day] => 11
+    [month] => 6
+    [year] => 2015
+)
+
+[11-Jun-2015 09:00:09 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[11-Jun-2015 09:00:23 Asia/Jakarta] MRBS: Invalid entry id.
+[11-Jun-2015 09:00:23 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 593
+    [area] => 3
+    [day] => 11
+    [month] => 6
+    [year] => 2015
+)
+
+[11-Jun-2015 09:00:23 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[15-Jun-2015 13:40:06 Asia/Jakarta] MRBS: Entry ID 613 not found
+[15-Jun-2015 13:40:06 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 613
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2015&month=06&day=22&area=3&room=3
+)
+
+[15-Jun-2015 13:40:06 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[15-Jun-2015 13:40:34 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[15-Jun-2015 13:40:34 Asia/Jakarta] MRBS POST: Array
+(
+    [ajax] => 1
+    [name] => Training OPCS
+    [description] => Training OPCS
+10 Peserta
+    [start_day] => 23
+    [start_month] => 6
+    [start_year] => 2015
+    [start_seconds] => 32400
+    [all_day] => 
+    [end_day] => 23
+    [end_month] => 6
+    [end_year] => 2015
+    [end_seconds] => 39600
+    [rooms] => Array
+        (
+            [0] => 8
+        )
+
+    [type] => I
+    [confirmed] => 1
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2015&month=06&day=23&area=3&room=3
+    [create_by] => 20140076
+    [rep_id] => 0
+    [edit_type] => 
+    [original_room_id] => 8
+    [ical_uid] => MRBS-557e3db44bb26-69609bc5@mrbs.itd.uph.edu
+    [ical_sequence] => 0
+    [ical_recur_id] => 
+    [id] => 615
+)
+
+[15-Jun-2015 13:40:34 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[15-Jun-2015 13:40:53 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[15-Jun-2015 13:40:53 Asia/Jakarta] MRBS POST: Array
+(
+    [ajax] => 1
+    [name] => Enrollmnet (Proses Block Enrollment oleh jurusan) dan Proses Add/Drop oleh PA/Ju
+    [description] => Training OPCS
+10 Peserta
+    [start_day] => 23
+    [start_month] => 6
+    [start_year] => 2015
+    [start_seconds] => 32400
+    [all_day] => 
+    [end_day] => 23
+    [end_month] => 6
+    [end_year] => 2015
+    [end_seconds] => 39600
+    [rooms] => Array
+        (
+            [0] => 8
+        )
+
+    [type] => I
+    [confirmed] => 1
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2015&month=06&day=23&area=3&room=3
+    [create_by] => 20140076
+    [rep_id] => 0
+    [edit_type] => 
+    [original_room_id] => 8
+    [ical_uid] => MRBS-557e3db44bb26-69609bc5@mrbs.itd.uph.edu
+    [ical_sequence] => 0
+    [ical_recur_id] => 
+    [id] => 615
+)
+
+[15-Jun-2015 13:40:53 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[15-Jun-2015 13:41:26 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[15-Jun-2015 13:41:26 Asia/Jakarta] MRBS POST: Array
+(
+    [name] => Enrollmnet (Proses Block Enrollment oleh jurusan) dan Proses Add/Drop oleh PA/Ju
+    [description] => Training OPCS
+Sesi I
+10 Peserta
+    [start_day] => 23
+    [start_month] => 6
+    [start_year] => 2015
+    [start_seconds] => 32400
+    [end_day] => 23
+    [end_month] => 6
+    [end_year] => 2015
+    [end_seconds] => 39600
+    [rooms] => Array
+        (
+            [0] => 8
+        )
+
+    [type] => I
+    [confirmed] => 1
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2015&month=06&day=23&area=3&room=3
+    [create_by] => 20140076
+    [rep_id] => 0
+    [edit_type] => 
+    [original_room_id] => 8
+    [ical_uid] => MRBS-557e3db44bb26-69609bc5@mrbs.itd.uph.edu
+    [ical_sequence] => 0
+    [ical_recur_id] => 
+    [id] => 615
+)
+
+[15-Jun-2015 13:41:26 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[15-Jun-2015 13:41:33 Asia/Jakarta] MRBS: Entry ID 615 not found
+[15-Jun-2015 13:41:33 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 615
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2015&month=06&day=23&area=3&room=3
+)
+
+[15-Jun-2015 13:41:33 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[23-Jun-2015 09:16:09 Asia/Jakarta] MRBS: Invalid entry id.
+[23-Jun-2015 09:16:09 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 664
+    [area] => 3
+    [day] => 23
+    [month] => 6
+    [year] => 2015
+)
+
+[25-Jun-2015 08:51:43 Asia/Jakarta] MRBS: Invalid entry id.
+[25-Jun-2015 08:51:43 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 675
+    [area] => 3
+    [day] => 25
+    [month] => 6
+    [year] => 2015
+)
+
+[25-Jun-2015 08:51:43 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20000830
+)
+
+[30-Jun-2015 13:20:55 Asia/Jakarta] MRBS: Invalid entry id.
+[30-Jun-2015 13:20:55 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 700
+    [area] => 3
+    [day] => 30
+    [month] => 6
+    [year] => 2015
+)
+
+[30-Jun-2015 13:21:02 Asia/Jakarta] MRBS: Invalid entry id.
+[30-Jun-2015 13:21:02 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 700
+    [area] => 3
+    [day] => 30
+    [month] => 6
+    [year] => 2015
+)
+
+[30-Jun-2015 13:21:04 Asia/Jakarta] MRBS: Invalid entry id.
+[30-Jun-2015 13:21:04 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 700
+    [area] => 3
+    [day] => 30
+    [month] => 6
+    [year] => 2015
+)
+
+[11-Aug-2015 15:23:52 Asia/Jakarta] MRBS: Invalid entry id.
+[11-Aug-2015 15:23:52 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 827
+    [area] => 3
+    [day] => 11
+    [month] => 8
+    [year] => 2015
+)
+
+[11-Aug-2015 15:23:52 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20130144
+)
+
+[11-Aug-2015 15:23:53 Asia/Jakarta] MRBS: Invalid entry id.
+[11-Aug-2015 15:23:53 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 827
+    [area] => 3
+    [day] => 11
+    [month] => 8
+    [year] => 2015
+)
+
+[20-Aug-2015 08:19:45 Asia/Jakarta] MRBS: Invalid entry id.
+[20-Aug-2015 08:19:45 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 827
+    [area] => 3
+    [day] => 11
+    [month] => 8
+    [year] => 2015
+)
+
+[14-Sep-2015 13:33:08 Asia/Jakarta] MRBS: Invalid entry id.
+[14-Sep-2015 13:33:08 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 949
+    [area] => 3
+    [day] => 14
+    [month] => 9
+    [year] => 2015
+)
+
+[14-Sep-2015 13:33:12 Asia/Jakarta] MRBS: Invalid entry id.
+[14-Sep-2015 13:33:12 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 949
+    [area] => 3
+    [day] => 14
+    [month] => 9
+    [year] => 2015
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=949&area=3&day=14&month=9&year=2015
+)
+
+[14-Sep-2015 13:33:12 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140108
+)
+
+[15-Sep-2015 11:45:32 Asia/Jakarta] MRBS: Invalid entry id.
+[15-Sep-2015 11:45:32 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 947
+    [area] => 3
+    [day] => 15
+    [month] => 9
+    [year] => 2015
+)
+
+[30-Sep-2015 07:05:03 Asia/Jakarta] MRBS: Invalid entry id.
+[30-Sep-2015 07:05:03 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2015
+    [month] => 9
+    [day] => 30
+    [area] => 3
+    [room] => 9
+)
+
+[30-Sep-2015 07:05:03 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20000830
+)
+
+[30-Sep-2015 07:05:12 Asia/Jakarta] MRBS: Invalid entry id.
+[30-Sep-2015 07:05:12 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2015
+    [month] => 9
+    [day] => 30
+    [area] => 3
+    [room] => 9
+)
+
+[30-Sep-2015 07:05:12 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20000830
+)
+
+[05-Oct-2015 09:57:10 Asia/Jakarta] MRBS: Invalid entry id.
+[05-Oct-2015 09:57:10 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2015
+    [month] => 10
+    [day] => 5
+    [area] => 3
+    [room] => 10
+)
+
+[05-Oct-2015 09:57:10 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => martin
+)
+
+[05-Oct-2015 09:57:16 Asia/Jakarta] MRBS: Entry ID 1021 not found
+[05-Oct-2015 09:57:16 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1021
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=1021&area=3&day=5&month=10&year=2015
+)
+
+[05-Oct-2015 09:57:16 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => martin
+)
+
+[05-Oct-2015 09:57:17 Asia/Jakarta] MRBS: Invalid entry id.
+[05-Oct-2015 09:57:17 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1021
+    [area] => 3
+    [day] => 5
+    [month] => 10
+    [year] => 2015
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=1021&area=3&day=5&month=10&year=2015
+)
+
+[05-Oct-2015 09:57:17 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => martin
+)
+
+[21-Oct-2015 15:23:04 Asia/Jakarta] MRBS: Entry ID 1072 not found
+[21-Oct-2015 15:23:04 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1072
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2015&month=10&day=22&area=3&room=4
+)
+
+[21-Oct-2015 15:23:04 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[27-Oct-2015 13:52:08 Asia/Jakarta] MRBS: Invalid entry id.
+[27-Oct-2015 13:52:08 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1110
+    [area] => 3
+    [day] => 27
+    [month] => 10
+    [year] => 2015
+)
+
+[27-Oct-2015 13:52:08 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20150062
+)
+
+[25-Jan-2016 15:36:08 Asia/Jakarta] MRBS: Invalid entry id.
+[25-Jan-2016 15:36:08 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1320
+    [area] => 3
+    [day] => 26
+    [month] => 1
+    [year] => 2016
+)
+
+[25-Jan-2016 15:36:08 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20150062
+)
+
+[22-Feb-2016 10:59:03 Asia/Jakarta] MRBS: Invalid entry id.
+[22-Feb-2016 10:59:03 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1449
+    [area] => 3
+    [day] => 22
+    [month] => 2
+    [year] => 2016
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=1449&area=3&day=22&month=2&year=2016
+)
+
+[22-Feb-2016 10:59:03 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20100074
+)
+
+[03-Mar-2016 14:20:34 Asia/Jakarta] MRBS: Invalid entry id.
+[03-Mar-2016 14:20:34 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1480
+    [area] => 3
+    [day] => 03
+    [month] => 03
+    [year] => 2016
+)
+
+[16-Mar-2016 13:54:38 Asia/Jakarta] MRBS: Invalid entry id.
+[16-Mar-2016 13:54:38 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1542
+    [area] => 3
+    [day] => 16
+    [month] => 3
+    [year] => 2016
+)
+
+[16-Mar-2016 13:54:38 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[18-Mar-2016 11:22:06 Asia/Jakarta] MRBS: Invalid entry id.
+[18-Mar-2016 11:22:06 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1561
+    [area] => 3
+    [day] => 28
+    [month] => 3
+    [year] => 2016
+)
+
+[21-Apr-2016 08:37:22 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[21-Apr-2016 08:37:22 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2016
+    [month] => 04
+    [day] => 20
+    [area] => 3
+    [room] => 3
+)
+
+[09-May-2016 10:41:13 Asia/Jakarta] MRBS: Invalid entry id.
+[09-May-2016 10:41:13 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1720
+    [area] => 3
+    [day] => 9
+    [month] => 5
+    [year] => 2016
+)
+
+[09-May-2016 10:41:13 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20000830
+)
+
+[16-May-2016 14:25:01 Asia/Jakarta] MRBS: Entry ID 1838 not found
+[16-May-2016 14:25:01 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 1838
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2016&month=05&day=19&area=3&room=10
+)
+
+[16-May-2016 14:25:01 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20000830
+)
+
+[30-May-2016 12:50:28 Asia/Jakarta] MRBS: Invalid entry id.
+[30-May-2016 12:50:28 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2095
+    [area] => 3
+    [day] => 31
+    [month] => 5
+    [year] => 2016
+)
+
+[02-Jun-2016 07:39:52 Asia/Jakarta] MRBS: Invalid entry id.
+[02-Jun-2016 07:39:52 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2016
+    [month] => 6
+    [day] => 2
+    [area] => 3
+    [room] => 4
+)
+
+[02-Jun-2016 07:39:52 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[02-Jun-2016 13:04:26 Asia/Jakarta] MRBS: Invalid entry id.
+[02-Jun-2016 13:04:26 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2016
+    [month] => 6
+    [day] => 2
+    [area] => 3
+    [room] => 10
+)
+
+[02-Jun-2016 13:04:26 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[10-Jun-2016 10:29:49 Asia/Jakarta] MRBS: Invalid entry id.
+[10-Jun-2016 10:29:49 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2152
+    [area] => 3
+    [day] => 16
+    [month] => 6
+    [year] => 2016
+)
+
+[10-Jun-2016 10:29:49 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20110173
+)
+
+[10-Jun-2016 10:29:50 Asia/Jakarta] MRBS: Invalid entry id.
+[10-Jun-2016 10:29:50 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2152
+    [area] => 3
+    [day] => 16
+    [month] => 6
+    [year] => 2016
+)
+
+[10-Jun-2016 10:29:50 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20110173
+)
+
+[20-Jun-2016 13:50:06 Asia/Jakarta] MRBS: Entry ID 2762 not found
+[20-Jun-2016 13:50:06 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2762
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2016&month=08&day=8&area=3&room=10
+)
+
+[20-Jun-2016 13:50:06 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20000830
+)
+
+[20-Jun-2016 13:50:09 Asia/Jakarta] MRBS: Invalid entry id.
+[20-Jun-2016 13:50:09 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2762
+    [area] => 3
+    [day] => 8
+    [month] => 8
+    [year] => 2016
+)
+
+[20-Jun-2016 13:50:09 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20000830
+)
+
+[15-Jul-2016 14:24:35 Asia/Jakarta] MRBS: Entry ID 2830 not found
+[15-Jul-2016 14:24:35 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2830
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=2830&series=
+)
+
+[15-Jul-2016 14:24:35 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140007
+)
+
+[24-Aug-2016 15:21:05 Asia/Jakarta] MRBS: Entry ID 2933 not found
+[24-Aug-2016 15:21:05 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2933
+    [returl] => http://mrbs.itd.uph.edu/del_entry.php?id=2933&series=0&returl=http%3A%2F%2Fmrbs.itd.uph.edu%2Fday.php%3Fyear%3D2016%26month%3D08%26day%3D26%26area%3D3%26room%3D3
+)
+
+[24-Aug-2016 15:21:05 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140334
+)
+
+[29-Aug-2016 13:04:41 Asia/Jakarta] MRBS: Invalid entry id.
+[29-Aug-2016 13:04:41 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2016
+    [month] => 8
+    [day] => 29
+    [area] => 3
+    [room] => 8
+)
+
+[29-Aug-2016 13:04:41 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20090184
+)
+
+[29-Aug-2016 13:04:51 Asia/Jakarta] MRBS: Entry ID 3040 not found
+[29-Aug-2016 13:04:51 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3040
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=3040&area=3&day=29&month=8&year=2016
+)
+
+[29-Aug-2016 13:04:51 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20090184
+)
+
+[29-Aug-2016 14:05:38 Asia/Jakarta] MRBS: Entry ID 3040 not found
+[29-Aug-2016 14:05:38 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3040
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=3040&area=3&day=29&month=8&year=2016
+)
+
+[29-Aug-2016 14:05:38 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20090184
+)
+
+[14-Sep-2016 08:14:51 Asia/Jakarta] MRBS: Invalid entry id.
+[14-Sep-2016 08:14:51 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 2936
+    [area] => 3
+    [day] => 14
+    [month] => 9
+    [year] => 2016
+)
+
+[14-Sep-2016 08:15:28 Asia/Jakarta] MRBS: Entry ID 3105 not found
+[14-Sep-2016 08:15:28 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3105
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2016&month=09&day=14&area=3&room=3
+)
+
+[14-Sep-2016 08:15:28 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[14-Sep-2016 08:15:36 Asia/Jakarta] MRBS: Entry ID 3105 not found
+[14-Sep-2016 08:15:36 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3105
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2016&month=09&day=14&area=3&room=3
+)
+
+[14-Sep-2016 08:15:36 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[14-Sep-2016 08:15:38 Asia/Jakarta] MRBS: Entry ID 3105 not found
+[14-Sep-2016 08:15:38 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3105
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2016&month=09&day=14&area=3&room=3
+)
+
+[14-Sep-2016 08:15:38 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[14-Sep-2016 08:15:43 Asia/Jakarta] MRBS: Invalid entry id.
+[14-Sep-2016 08:15:43 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3105
+    [area] => 3
+    [day] => 14
+    [month] => 9
+    [year] => 2016
+)
+
+[14-Sep-2016 08:15:43 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[14-Sep-2016 08:15:48 Asia/Jakarta] MRBS: Invalid entry id.
+[14-Sep-2016 08:15:48 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3105
+    [area] => 3
+    [day] => 14
+    [month] => 9
+    [year] => 2016
+)
+
+[14-Sep-2016 08:15:48 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[10-Oct-2016 14:56:49 Asia/Jakarta] MRBS: Invalid entry id.
+[10-Oct-2016 14:56:49 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2016
+    [month] => 10
+    [day] => 12
+    [area] => 3
+    [room] => 9
+)
+
+[10-Oct-2016 14:56:49 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => stefenes
+)
+
+[11-Oct-2016 11:11:35 Asia/Jakarta] MRBS: Invalid entry id.
+[11-Oct-2016 11:11:35 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[11-Oct-2016 17:01:39 Asia/Jakarta] MRBS: Invalid entry id.
+[11-Oct-2016 17:01:39 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3209
+    [area] => 3
+    [day] => 10
+    [month] => 10
+    [year] => 2016
+)
+
+[11-Oct-2016 17:01:39 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140321
+)
+
+[12-Oct-2016 07:26:05 Asia/Jakarta] MRBS: Invalid entry id.
+[12-Oct-2016 07:26:05 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3209
+    [area] => 3
+    [day] => 10
+    [month] => 10
+    [year] => 2016
+)
+
+[12-Oct-2016 07:26:05 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140321
+)
+
+[17-Oct-2016 08:08:16 Asia/Jakarta] MRBS: Invalid entry id.
+[17-Oct-2016 08:08:16 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[19-Oct-2016 15:52:14 Asia/Jakarta] MRBS: Invalid entry id.
+[19-Oct-2016 15:52:14 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[24-Oct-2016 08:38:11 Asia/Jakarta] MRBS: Invalid entry id.
+[24-Oct-2016 08:38:11 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[26-Oct-2016 07:10:15 Asia/Jakarta] MRBS: Invalid entry id.
+[26-Oct-2016 07:10:15 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[03-Nov-2016 08:23:42 Asia/Jakarta] MRBS: Invalid entry id.
+[03-Nov-2016 08:23:42 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[03-Nov-2016 08:25:00 Asia/Jakarta] MRBS: Invalid entry id.
+[03-Nov-2016 08:25:00 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[03-Nov-2016 08:26:43 Asia/Jakarta] MRBS: Invalid entry id.
+[03-Nov-2016 08:26:43 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[09-Nov-2016 14:45:29 Asia/Jakarta] MRBS: Invalid entry id.
+[09-Nov-2016 14:45:29 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3325
+    [area] => 3
+    [day] => 9
+    [month] => 11
+    [year] => 2016
+)
+
+[10-Nov-2016 10:56:12 Asia/Jakarta] MRBS: Invalid entry id.
+[10-Nov-2016 10:56:12 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[24-Nov-2016 08:19:24 Asia/Jakarta] MRBS: Invalid entry id.
+[24-Nov-2016 08:19:24 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[25-Nov-2016 09:57:18 Asia/Jakarta] MRBS: Invalid entry id.
+[25-Nov-2016 09:57:18 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[29-Nov-2016 08:38:44 Asia/Jakarta] MRBS: Invalid entry id.
+[29-Nov-2016 08:38:44 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[30-Nov-2016 08:11:36 Asia/Jakarta] MRBS: Invalid entry id.
+[30-Nov-2016 08:11:36 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[05-Dec-2016 08:51:09 Asia/Jakarta] MRBS: Invalid entry id.
+[05-Dec-2016 08:51:09 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[06-Dec-2016 16:12:43 Asia/Jakarta] MRBS: Invalid entry id.
+[06-Dec-2016 16:12:43 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3378
+    [area] => 3
+    [day] => 9
+    [month] => 12
+    [year] => 2016
+)
+
+[05-Jan-2017 14:08:15 Asia/Jakarta] MRBS: Invalid entry id.
+[05-Jan-2017 14:08:15 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[10-Jan-2017 08:38:31 Asia/Jakarta] MRBS: Invalid entry id.
+[10-Jan-2017 08:38:31 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[16-Jan-2017 07:36:12 Asia/Jakarta] MRBS: Invalid entry id.
+[16-Jan-2017 07:36:12 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[23-Jan-2017 07:49:51 Asia/Jakarta] MRBS: Invalid entry id.
+[23-Jan-2017 07:49:51 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[23-Feb-2017 09:32:20 Asia/Jakarta] MRBS: Invalid entry id.
+[23-Feb-2017 09:32:20 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2017
+    [month] => 2
+    [day] => 23
+    [area] => 3
+    [room] => 4
+)
+
+[23-Feb-2017 09:32:20 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => gumawang
+)
+
+[07-Mar-2017 15:59:23 Asia/Jakarta] MRBS: Invalid entry id.
+[07-Mar-2017 15:59:23 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3691
+    [area] => 3
+    [day] => 7
+    [month] => 3
+    [year] => 2017
+)
+
+[13-Mar-2017 10:14:12 Asia/Jakarta] MRBS: Invalid entry id.
+[13-Mar-2017 10:14:12 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2017
+    [month] => 3
+    [day] => 14
+    [area] => 3
+    [room] => 4
+)
+
+[13-Mar-2017 10:14:12 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140007
+)
+
+[27-Mar-2017 07:28:18 Asia/Jakarta] MRBS: Invalid entry id.
+[27-Mar-2017 07:28:18 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 3775
+    [area] => 3
+    [day] => 30
+    [month] => 3
+    [year] => 2017
+)
+
+[27-Mar-2017 07:28:18 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20150062
+)
+
+[02-May-2017 13:54:32 Asia/Jakarta] MRBS: Invalid entry id.
+[02-May-2017 13:54:32 Asia/Jakarta] MRBS GET: Array
+(
+    [returl] => /pending.php
+)
+
+[02-May-2017 13:54:32 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140186
+)
+
+[14-Jun-2017 10:38:23 Asia/Jakarta] MRBS: Invalid entry id.
+[14-Jun-2017 10:38:23 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2017
+    [month] => 6
+    [day] => 15
+    [area] => 3
+    [room] => 10
+)
+
+[14-Jun-2017 10:38:23 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20100074
+)
+
+[04-Sep-2017 08:43:51 Asia/Jakarta] MRBS: Invalid entry id.
+[04-Sep-2017 08:43:51 Asia/Jakarta] MRBS GET: Array
+(
+    [year] => 2017
+    [month] => 9
+    [day] => 4
+    [area] => 3
+    [room] => 8
+)
+
+[04-Sep-2017 08:43:51 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20020042
+)
+
+[02-Oct-2017 11:35:56 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[02-Oct-2017 11:35:56 Asia/Jakarta] MRBS POST: Array
+(
+    [ajax] => 1
+    [name] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+    [description] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+Pic;Ellis
+Peserta:5
+Pukul :08.00-16.00
+
+    [start_day] => 3
+    [start_month] => 10
+    [start_year] => 2017
+    [start_seconds] => 28800
+    [all_day] => 
+    [end_day] => 6
+    [end_month] => 10
+    [end_year] => 2017
+    [end_seconds] => 57600
+    [area] => 3
+    [rooms] => Array
+        (
+            [0] => 8
+        )
+
+    [type] => I
+    [confirmed] => 1
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2017&month=10&day=3&area=3&room=3
+    [create_by] => 20140076
+    [rep_id] => 0
+    [edit_type] => 
+    [original_room_id] => 8
+    [ical_uid] => MRBS-59cb2726c2409-30f7b605@mrbs.itd.uph.edu
+    [ical_sequence] => 1
+    [ical_recur_id] => 
+    [id] => 4571
+)
+
+[02-Oct-2017 11:35:56 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[02-Oct-2017 11:36:43 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[02-Oct-2017 11:36:43 Asia/Jakarta] MRBS POST: Array
+(
+    [ajax] => 1
+    [name] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+    [description] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+Pic;Ellis
+Peserta:5
+Pukul :08.00-16.00
+
+    [start_day] => 3
+    [start_month] => 10
+    [start_year] => 2017
+    [start_seconds] => 46800
+    [all_day] => 
+    [end_day] => 6
+    [end_month] => 10
+    [end_year] => 2017
+    [end_seconds] => 67500
+    [area] => 3
+    [rooms] => Array
+        (
+            [0] => 8
+        )
+
+    [type] => I
+    [confirmed] => 1
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2017&month=10&day=3&area=3&room=3
+    [create_by] => 20140076
+    [rep_id] => 0
+    [edit_type] => 
+    [original_room_id] => 8
+    [ical_uid] => MRBS-59cb2726c2409-30f7b605@mrbs.itd.uph.edu
+    [ical_sequence] => 1
+    [ical_recur_id] => 
+    [id] => 4571
+)
+
+[02-Oct-2017 11:36:43 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[02-Oct-2017 11:36:49 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[02-Oct-2017 11:36:49 Asia/Jakarta] MRBS POST: Array
+(
+    [ajax] => 1
+    [name] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+    [description] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+Pic;Ellis
+Peserta:5
+Pukul :08.00-16.00
+
+    [start_day] => 3
+    [start_month] => 10
+    [start_year] => 2017
+    [start_seconds] => 46800
+    [all_day] => 
+    [end_day] => 6
+    [end_month] => 10
+    [end_year] => 2017
+    [end_seconds] => 57600
+    [area] => 3
+    [rooms] => Array
+        (
+            [0] => 8
+        )
+
+    [type] => I
+    [confirmed] => 1
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2017&month=10&day=3&area=3&room=3
+    [create_by] => 20140076
+    [rep_id] => 0
+    [edit_type] => 
+    [original_room_id] => 8
+    [ical_uid] => MRBS-59cb2726c2409-30f7b605@mrbs.itd.uph.edu
+    [ical_sequence] => 1
+    [ical_recur_id] => 
+    [id] => 4571
+)
+
+[02-Oct-2017 11:36:49 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[02-Oct-2017 11:36:55 Asia/Jakarta] MRBS: Fatal error: unfortunately the database is not available at the moment.
+[02-Oct-2017 11:36:55 Asia/Jakarta] MRBS POST: Array
+(
+    [name] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+    [description] => UAT tahap 2 untuk Forecasting & Integration Module serta Syllabus Plus
+Pic;Ellis
+Peserta:5
+Pukul :08.00-16.00
+
+    [start_day] => 3
+    [start_month] => 10
+    [start_year] => 2017
+    [start_seconds] => 46800
+    [end_day] => 6
+    [end_month] => 10
+    [end_year] => 2017
+    [end_seconds] => 57600
+    [area] => 3
+    [rooms] => Array
+        (
+            [0] => 8
+        )
+
+    [type] => I
+    [confirmed] => 1
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2017&month=10&day=3&area=3&room=3
+    [create_by] => 20140076
+    [rep_id] => 0
+    [edit_type] => 
+    [original_room_id] => 8
+    [ical_uid] => MRBS-59cb2726c2409-30f7b605@mrbs.itd.uph.edu
+    [ical_sequence] => 1
+    [ical_recur_id] => 
+    [id] => 4571
+)
+
+[02-Oct-2017 11:36:55 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[02-Oct-2017 11:36:57 Asia/Jakarta] MRBS: Entry ID 4571 not found
+[02-Oct-2017 11:36:57 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 4571
+    [returl] => http://mrbs.itd.uph.edu/day.php?year=2017&month=10&day=3&area=3&room=3
+)
+
+[02-Oct-2017 11:36:57 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[02-Oct-2017 11:37:02 Asia/Jakarta] MRBS: Invalid entry id.
+[02-Oct-2017 11:37:02 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 4571
+    [area] => 3
+    [day] => 3
+    [month] => 10
+    [year] => 2017
+)
+
+[02-Oct-2017 11:37:02 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[02-Oct-2017 11:37:11 Asia/Jakarta] MRBS: Invalid entry id.
+[02-Oct-2017 11:37:11 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 4571
+    [area] => 3
+    [day] => 3
+    [month] => 10
+    [year] => 2017
+)
+
+[02-Oct-2017 11:37:11 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140076
+)
+
+[31-Oct-2017 14:01:23 Asia/Jakarta] MRBS: Invalid entry id.
+[31-Oct-2017 14:01:23 Asia/Jakarta] MRBS GET: Array
+(
+    [returl] => /pending.php
+)
+
+[31-Oct-2017 14:01:23 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140186
+)
+
+[26-Jan-2018 10:07:47 Asia/Jakarta] MRBS: Invalid entry id.
+[26-Jan-2018 10:07:47 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 4888
+    [area] => 3
+    [day] => 26
+    [month] => 1
+    [year] => 2018
+)
+
+[26-Jan-2018 11:29:54 Asia/Jakarta] MRBS: Invalid entry id.
+[26-Jan-2018 11:29:54 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 4888
+    [area] => 3
+    [day] => 26
+    [month] => 1
+    [year] => 2018
+)
+
+[26-Jan-2018 11:30:03 Asia/Jakarta] MRBS: Invalid entry id.
+[26-Jan-2018 11:30:03 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 4888
+    [area] => 3
+    [day] => 26
+    [month] => 1
+    [year] => 2018
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=4888&area=3&day=26&month=1&year=2018
+)
+
+[26-Jan-2018 11:30:03 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140321
+)
+
+[26-Jan-2018 11:30:06 Asia/Jakarta] MRBS: Invalid entry id.
+[26-Jan-2018 11:30:06 Asia/Jakarta] MRBS GET: Array
+(
+    [id] => 4888
+    [area] => 3
+    [day] => 26
+    [month] => 1
+    [year] => 2018
+    [returl] => http://mrbs.itd.uph.edu/view_entry.php?id=4888&area=3&day=26&month=1&year=2018
+)
+
+[26-Jan-2018 11:30:06 Asia/Jakarta] MRBS SESSION: Array
+(
+    [UserName] => 20140321
+)
+

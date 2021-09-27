@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension
+	version="1.7"
+	method="upgrade"
+	type="template"
+	client="site">
+	<name>UPH-Inside-Menu1</name>
+	<creationDate>08/08/11</creationDate>
+	<author>Sugito Chen</author>
+	<authorEmail>sugito.chen@uph.edu</authorEmail>
+	<authorUrl>http://www.uph.edu</authorUrl>
+	<copyright>Copyright (C) 1994 - 2011 Universitas Pelita Harapan. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<version>1.7.0</version>
+	<description>TPL_UPH_INSIDE_MENU1_XML_DESCRIPTION</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>error.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>favicon.ico</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+		<folder>language</folder>
+		<folder>js</folder>
+		<folder>html</folder>
+	</files>
+
+	<positions>
+		<position>googleanalytics</position>
+		<position>header1</position>
+		<position>language1</position>
+		<position>search1</position>
+		<position>topmenu1</position>
+		<position>topmenu2</position>
+		<position>submenu2</position>
+		<position>expandedmenu2</position>
+		<position>activemenu1</position>
+		<position>atuph1</position>
+		<position>other1</position>
+		<position>follow3</position>
+		<position>footermenu1</position>
+	</positions>
+
+	<!-- 	For core templates, we also install/uninstall the language files in the core language folders.
+	-->
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.tpl_uph-inside-menu1.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_uph-inside-menu1.sys.ini</language>
+		<language tag="id-ID">id-ID/id-ID.tpl_uph-inside-menu1.ini</language>
+		<language tag="id-ID">id-ID/id-ID.tpl_uph-inside-menu1.sys.ini</language>
+	</languages>
+	
+	<config>
+		<fields name="params">
+			<fieldset name="advanced">
+				<field name="maintemplate"  type="text" default="uph-faculty1"
+					label="TPL_UPH_INSIDE_MENU1_FIELD_MAINTEMPLATE_LABEL"
+					description="TPL_UPH_INSIDE_MENU1_FIELD_MAINTEMPLATE_DESC"
+					filter="string" />
+				
+				<field name="mainmenu"  type="text" default="menu1"
+					label="TPL_UPH_INSIDE_MENU1_FIELD_MAINMENU_LABEL"
+					description="TPL_UPH_INSIDE_MENU1_FIELD_MAINMENU_DESC"
+					filter="string" />
+				
+				<field name="showmenu"	type="radio" class="btn-group" default="1"
+					label="TPL_UPH_INSIDE_MENU1_FIELD_SHOWMENU_LABEL"
+					description="TPL_UPH_INSIDE_MENU1_FIELD_SHOWMENU_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+				
+				<field name="showatuph"	type="radio" class="btn-group" default="1"
+					label="TPL_UPH_INSIDE_MENU1_FIELD_SHOWATUPH_LABEL"
+					description="TPL_UPH_INSIDE_MENU1_FIELD_SHOWATUPH_DESC">
+					<option value="0">JNO</option>
+					<option value="1">JYES</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+
+</extension>

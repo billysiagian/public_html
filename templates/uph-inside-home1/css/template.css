@@ -1,0 +1,29 @@
+.title {letter-spacing:2px;border-bottom:4px solid #76251f;padding-bottom:5px;color:#084b82;text-align:left;font-family:Georgia,"Times New Roman",Times,serif;font-size:11px;font-weight:bold;line-height:1;}
+.full-header {}
+.full-inside {width:100%;background:linear-gradient(top,#fff 60%,#e1e1e1 100%);background:-o-linear-gradient(top,#fff 60%,#e1e1e1 100%);background:-moz-linear-gradient(top,#fff 60%,#e1e1e1 100%);background:-webkit-linear-gradient(top,#fff 60%,#e1e1e1 100%);background:-ms-linear-gradient(top,#fff 60%,#e1e1e1 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0.6,#fff),color-stop(1,#e1e1e1));}
+.full-footer {}
+.content-inside {}
+.space-1 {margin-top:0px;}
+.space-2 {margin-top:53px;}
+.space-3 {margin-top:30px;}
+.space-4 {margin-top:33px;}
+.space-5 {margin-top:50px;}
+.space-6 {margin-top:0px;}
+.content {margin:0px 3px 0px 3px;text-align:left;}
+.vertical-top {vertical-align:top;}
+.component {text-align:left;overflow:hidden;}
+.component li {margin-left:30px;}
+.component ol li {margin-left:40px;}
+.loading1 {background:url(../images/loading.gif) no-repeat 50% 50%;}
+.welcome {margin-top:8px;}
+.welcome div {font-size:14px;vertical-align:top;line-height:1;padding-bottom:11px;}
+.page {float:left;width:100%;}
+.page ul {position:relative;list-style:none;text-align:center;font-size:13px;font:inherit;font-weight:bold;}
+.page ul li {display:inline;padding-right:10px;margin-left:0px;}
+span.page-link {color:#7d7d7d;}
+.page-start {}
+.page-prev {margin-right:10px;}
+.page-next {padding-left:10px;}
+.page-end {}
+.row-1 {padding-top:20px;}
+.bottom-1 {padding-bottom:30px;}
