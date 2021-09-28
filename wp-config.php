@@ -1,6 +1,5 @@
 <?php
 
-//testing edit doang buat push ke git
 
 /** Enable W3 Total Cache */
 define('WP_CACHE', true); // Added by W3 Total Cache
